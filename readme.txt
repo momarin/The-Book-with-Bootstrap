@@ -1,5 +1,7 @@
 # Project Net Ninja Pro - the book with Bootstrap 5.3.5
 
+# This project aims to combine most of the Bootstrap 5 components into a single webpage.
+
 # Characteristics:
 - Every grid goes into a container;
 - Installing Bootstrap via npm;
